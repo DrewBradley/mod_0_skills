@@ -1,0 +1,10 @@
+Johnny McBartender
+
+ATTRIBUTES:
+hoursWorked: 32
+position: 'bartender'
+overTimePay: false
+hourlyPay; 10.50
+skills: ['mix cocktails', 'clean dishes', 'bounce', 'prep bar']
+
+calculatePay: this.hoursWorked (32) * this.hourlyPay (10.50) should return 336
