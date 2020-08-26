@@ -7,4 +7,8 @@ overTimePay: false
 hourlyPay; 10.50
 skills: ['mix cocktails', 'clean dishes', 'bounce', 'prep bar']
 
+
+promote: return 'manager' in position field
 calculatePay: this.hoursWorked (32) * this.hourlyPay (10.50) should return 336
+overtime: false
+train: return ['mix cocktails', 'clean dishes', 'bounce', 'prep bar', 'schedule shifts']
