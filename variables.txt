@@ -1,0 +1,12 @@
+var food = "double cheeseburger"
+var isDelicious = true
+food = "corndog"
+var num2 = 2
+var num7 = 7
+var quotient = num7/num2
+var songs = ['Rapper's Delight', 'i', 'Untitled', 'This Is A Song']
+
+songs.shift();
+
+food.length();
+
