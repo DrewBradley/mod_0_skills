@@ -1,0 +1,14 @@
+Table
+
+Attributes
+numberOfChairs (integer)
+numberOfTurnovers (integer)
+available (boolean)
+hightop (boolean)
+lastSat (datetime)
+
+Methods
+pushTablesTogether: increase this.numberOfChairs by numberOfChairs from other instance, then subtract 2
+turnover: increase numberOfTurnovers by 1
+sit: change available to false, and update lastSat to current datetime
+cutTheLegs: change hightop to false

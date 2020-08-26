@@ -1,0 +1,13 @@
+Table 3
+
+Attributes
+numberOfChairs: 6
+numberOfTurnovers: 0
+available: true
+hightop: false
+lastSat: null
+
+pushTablesTogether: 8
+turnover: 1
+sit: available = false, lastSat = 0826202010:55
+cutTheLegs: null
